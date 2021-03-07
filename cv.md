@@ -9,4 +9,4 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 6. https://toveilui.github.io
-7.  
+7. Belarusian State University of Culture and Arts, IT Academy UI/UX design, IT SHATLE HTML/CSS, Udemy Front-end developer
